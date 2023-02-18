@@ -1,8 +1,8 @@
 <p align="center">
 
-🔥Welcome🔥
+Welcome
 --------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+![Welcome](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 
 AUTHOR:
